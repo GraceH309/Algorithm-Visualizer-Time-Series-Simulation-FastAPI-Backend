@@ -1,0 +1,3 @@
+1. Had trouble with matplotlib animation frame rate at first, adjusted refresh interval to fix lag
+2. FastAPI CORS error fixed by adding CORSMiddleware
+3. Need to optimize simulation loop speed for large dataset inputs
